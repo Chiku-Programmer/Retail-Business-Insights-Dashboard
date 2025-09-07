@@ -1,6 +1,7 @@
 # Retail-Business-Insights-Dashboard
 
-Problem Statement:
+Problem Statement
+-----------------
 
 A mid-sized retail company operating across multiple regions in India is facing stagnant sales and uneven store performance.
 They want to improve overall profitability by identifying: 
@@ -9,6 +10,7 @@ They want to improve overall profitability by identifying:
 • Opportunities in underperforming regions, •High-value customer segments.
 
 📊 Visual Summary
+------------------
 
 | Category                       | Details                                                                                                                                                                                                                                                                               |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,7 +19,8 @@ They want to improve overall profitability by identifying:
 | **Stakeholder Roles Served**   | Executives (strategic overview), Regional/Store Managers (performance monitoring), Marketing Teams (customer segmentation & retention), Merchandisers (product mix & promotions)                                                                                                      |
 | **Business Outcomes Achieved** | Identified top 10 products driving \~40% of revenue, flagged 15% underperforming stores, uncovered high-value customer segments for targeted campaigns, optimized channel strategy between online and offline sales, and enabled data-driven decision-making for profitability growth |
 
-Description:
+Description
+-----------
 
 This project showcases the design and implementation of a comprehensive Retail Business Insights suite, developed to address stagnant sales and uneven store performance across a multi-region retail organization in India. Leveraging SQL, Excel, and Power BI, the solution integrates sales, customer, and product data into a unified analytics platform that empowers business leaders with actionable insights.
 
@@ -29,7 +32,8 @@ Customer Dashboard – Segments customers into new vs. repeat buyers, measures r
 
 Product Dashboard – Highlights top-performing products, category contributions, product profitability, and stock-out risks. Enables merchandisers to optimize product mix, pricing, and promotional strategies.
 
-Key achievements:
+Key achievements
+----------------
 
 Implemented a star schema data model with fact and dimension tables for scalability.
 
