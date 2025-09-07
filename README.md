@@ -50,3 +50,17 @@ Delivered drill-through and interactive filtering for store, customer, and produ
 Developed data-driven recommendations for executives, including focusing on the top 10 products contributing ~40% of total revenue, addressing underperforming stores, and tailoring campaigns for high-value customers.
 
 Ensured professional deployment practices, including dataset refresh strategies, role-level security (RLS), and documentation for business stakeholders.
+
+🎯 Goal of the Business Problem
+
+The primary objective is to enhance retail profitability and growth by identifying key insights into customer behavior, product performance, and regional sales trends. By consolidating sales, customer, and product data into interactive dashboards, the business can:
+
+Identify top-performing products and underperforming categories
+
+Track store-level and regional performance to optimize resource allocation
+
+Segment customers into high-value vs. low-value groups for better targeting
+
+Improve marketing ROI by focusing on retention and repeat purchases
+
+Optimize pricing, promotions, and channel strategies (online vs offline)
