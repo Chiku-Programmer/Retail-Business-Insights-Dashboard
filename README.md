@@ -52,6 +52,7 @@ Developed data-driven recommendations for executives, including focusing on the 
 Ensured professional deployment practices, including dataset refresh strategies, role-level security (RLS), and documentation for business stakeholders.
 
 🎯 Goal of the Business Problem
+--------------------------------
 
 The primary objective is to enhance retail profitability and growth by identifying key insights into customer behavior, product performance, and regional sales trends. By consolidating sales, customer, and product data into interactive dashboards, the business can:
 
