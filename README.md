@@ -11,7 +11,9 @@ They want to improve overall profitability by identifying:
 
 • Best-performing products and stores,
 
-• Opportunities in underperforming regions, •High-value customer segments.
+• Opportunities in underperforming regions, 
+
+• High-value customer segments.
 
 📊 Visual Summary
 ------------------
