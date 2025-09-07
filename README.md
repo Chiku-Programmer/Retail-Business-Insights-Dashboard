@@ -4,9 +4,12 @@ Problem Statement
 -----------------
 
 A mid-sized retail company operating across multiple regions in India is facing stagnant sales and uneven store performance.
+
 They want to improve overall profitability by identifying: 
 • Customer buying patterns,
+
 • Best-performing products and stores,
+
 • Opportunities in underperforming regions, •High-value customer segments.
 
 📊 Visual Summary
