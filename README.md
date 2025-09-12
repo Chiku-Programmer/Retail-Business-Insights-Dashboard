@@ -1,7 +1,6 @@
-# Retail-Business-Insights-Dashboard
+# 🛒 Retail Business Insights Dashboard  
 
-Problem Statement
------------------
+## 📝 Problem Statement  
 
 A mid-sized retail company operating across multiple regions in India is facing stagnant sales and uneven store performance.
 
@@ -13,55 +12,95 @@ They want to improve overall profitability by identifying:
 
 • Opportunities in underperforming regions, 
 
-• High-value customer segments.
+• High-value customer segments. 
 
-📊 Visual Summary
-------------------
+---
 
-| Category                       | Details                                                                                                                                                                                                                                                                               |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tools Used**                 | Power BI (visualization & data modeling), SQL (data extraction & analysis), Excel (data cleaning & preparation)                                                                                                                                                                       |
-| **KPIs Tracked**               | Revenue (MTD, YTD, YoY), Average Order Value (AOV), Customer Lifetime Value (CLTV), Gross Margin %, Store Performance, Top Products Contribution, Repeat Purchase Rate, Channel Revenue Split, Payment Mode Distribution                                                              |
-| **Stakeholder Roles Served**   | Executives (strategic overview), Regional/Store Managers (performance monitoring), Marketing Teams (customer segmentation & retention), Merchandisers (product mix & promotions)                                                                                                      |
-| **Business Outcomes Achieved** | Identified top 10 products driving \~40% of revenue, flagged 15% underperforming stores, uncovered high-value customer segments for targeted campaigns, optimized channel strategy between online and offline sales, and enabled data-driven decision-making for profitability growth |
+## 💡 Solution  
+An **interactive Power BI dashboard** built on retail sales data to:  
+- Track **customer segments** and purchasing behavior.  
+- Analyze **product performance** across categories.  
+- Monitor **sales trends** across different time periods.  
+- Provide management with **KPIs and drilldowns** for strategy and forecasting.  
 
-Description
------------
+---
 
-This project showcases the design and implementation of a comprehensive Retail Business Insights suite, developed to address stagnant sales and uneven store performance across a multi-region retail organization in India. Leveraging SQL, Excel, and Power BI, the solution integrates sales, customer, and product data into a unified analytics platform that empowers business leaders with actionable insights.
+## 📌 Key KPIs from Dashboard  
+- **Total Revenue**  
+- **Total Quantity Sold**  
+- **Number of Customers**  
+- **Average Revenue per Customer**  
+- **Top-Selling Products**  
+- **Customer Segmentation by Revenue**  
+- **Monthly & Quarterly Sales Trends**  
 
-The project is structured into three interactive dashboards:
+---
 
-Sales Dashboard – Tracks revenue trends, growth (MoM, YoY), channel mix (online vs offline), payment mode distribution, and store performance benchmarking. Designed for executives to monitor profitability and regional growth opportunities.
+## 🔍 Business Insights  
+- Revenue is concentrated among a **small group of loyal customers**, highlighting opportunities for retention programs.  
+- **Top products contribute disproportionately** to overall revenue, while several low-performing products could be reconsidered.  
+- Sales show **seasonal and monthly peaks**, helping forecast demand more accurately.  
+- Customer distribution reveals **high-value vs low-value segments**, supporting personalized marketing.  
 
-Customer Dashboard – Segments customers into new vs. repeat buyers, measures retention and repeat purchase rates, analyzes average order value, and identifies high-value customer segments. Provides marketing teams with insights for customer acquisition and loyalty strategies.
+---
 
-Product Dashboard – Highlights top-performing products, category contributions, product profitability, and stock-out risks. Enables merchandisers to optimize product mix, pricing, and promotional strategies.
+## 💼 Business Impact  
+- Helps management **focus on high-value customers** through loyalty or reward programs.  
+- Enables product teams to **optimize inventory**, emphasizing top-sellers and phasing out underperformers.  
+- Supports finance and sales leaders in **forecasting revenue more accurately** by understanding seasonal trends.  
+- Improves **decision-making across marketing, sales, and operations** by consolidating all key retail metrics in one view.  
 
-Key achievements
-----------------
+---
 
-Implemented a star schema data model with fact and dimension tables for scalability.
+## 🛠️ Tech Stack  
+- **Excel** → Data cleaning, transformation, and validation.  
+- **SQL** → Aggregations and joins for customer, product, and sales data.  
+- **Power BI** → Data modeling, DAX measures, interactive dashboards.  
 
-Designed DAX measures to calculate advanced KPIs such as YoY growth, Average Order Value, Customer Lifetime Value, and Gross Margin %.
+---
 
-Delivered drill-through and interactive filtering for store, customer, and product-level analysis.
+## 📊 Dashboard Views  
 
-Developed data-driven recommendations for executives, including focusing on the top 10 products contributing ~40% of total revenue, addressing underperforming stores, and tailoring campaigns for high-value customers.
+### 1️⃣ Customer Dashboard  
+![Customer Dashboard](https://github.com/Chiku-Programmer/Retail-Business-Insights-Dashboard/blob/main/CUSTOMERS.png?raw=true
+)  
+**Insights:**  
+- The majority of revenue comes from a **small group of repeat customers**.  
+- Clear segmentation between **high-value and low-value customers**.  
+- Geographic breakdown reveals **top-performing regions**.  
 
-Ensured professional deployment practices, including dataset refresh strategies, role-level security (RLS), and documentation for business stakeholders.
+**Takeaway:**  
+→ Focus retention campaigns on high-value customers and target underperforming regions with promotions.  
 
-🎯 Goal of the Business Problem
---------------------------------
+---
 
-The primary objective is to enhance retail profitability and growth by identifying key insights into customer behavior, product performance, and regional sales trends. By consolidating sales, customer, and product data into interactive dashboards, the business can:
+### 2️⃣ Product Dashboard  
+![Product Dashboard](https://github.com/Chiku-Programmer/Retail-Business-Insights-Dashboard/blob/main/PRODUCTS.png?raw=true)  
+**Insights:**  
+- **Top 10 products generate the majority of revenue**.  
+- Several products contribute minimally → indicating scope to streamline inventory.  
+- Category-level view highlights **which departments drive profitability**.  
 
-Identify top-performing products and underperforming categories
+**Takeaway:**  
+→ Strengthen supply chain for top products and optimize or discontinue low-performing items.  
 
-Track store-level and regional performance to optimize resource allocation
+---
 
-Segment customers into high-value vs. low-value groups for better targeting
+### 3️⃣ Sales Dashboard  
+![Sales Dashboard](https://github.com/Chiku-Programmer/Retail-Business-Insights-Dashboard/blob/main/SALES.png?raw=true)  
+**Insights:**  
+- Sales show **monthly and quarterly seasonality**, with clear peaks during specific periods.  
+- **Revenue growth trends** indicate consistent performance over time.  
+- High revenue contribution from specific quarters helps in **strategic forecasting**.  
 
-Improve marketing ROI by focusing on retention and repeat purchases
+**Takeaway:**  
+→ Use seasonal peaks for marketing campaigns and plan inventory to match demand cycles.  
 
-Optimize pricing, promotions, and channel strategies (online vs offline)
+---
+
+## 🔑 Summary  
+Together, these three dashboards provide a **360° view of retail performance** — helping stakeholders:  
+- Understand customer segments and improve retention.  
+- Optimize product portfolio and supply chain.  
+- Forecast sales with greater accuracy.  
+- Drive **data-driven decisions** across retail operations.  
